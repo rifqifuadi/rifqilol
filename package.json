@@ -1,0 +1,24 @@
+{
+  "name": "tololoche",
+  "version": "0.1.0",
+  "description": "Organizes your music files into folders. That's it!",
+  "main": "tololoche.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feload/tololoche.git"
+  },
+  "keywords": [
+    "music",
+    "folder",
+    "mp3"
+  ],
+  "author": "Felipe L.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feload/tololoche/issues"
+  },
+  "homepage": "https://github.com/feload/tololoche"
+}
