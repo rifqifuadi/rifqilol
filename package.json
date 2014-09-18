@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/feload/tololoche/issues"
   },
-  "homepage": "https://github.com/feload/tololoche"
+  "homepage": "https://github.com/feload/tololoche",
+  "dependencies": {
+    "fs":"*"
+  },
 }
