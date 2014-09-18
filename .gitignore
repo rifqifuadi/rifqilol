@@ -1,3 +1,6 @@
+# Sublime project files
+*.sublime-*
+
 # Logs
 logs
 *.log
