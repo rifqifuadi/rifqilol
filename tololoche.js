@@ -3,7 +3,7 @@
  *  Organizes your music files into folders. That's all.
  */
 
-var fileSys = require('fs')
+var fileSys = require('fs'),
     format = '.mp3',
     files_organized = 0,
     folders_created = 0;
