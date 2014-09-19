@@ -1,7 +1,4 @@
-/**
- *  Tololoche v0.1.0
- *  Organizes your music files into folders. That's all.
- */
+#!/usr/bin/env node
 
 var fileSys = require('fs'),
     format = '.mp3',
