@@ -1,4 +1,4 @@
-tololoche
+rifqilol
 =========
 
 Organizes your music files into folders. That's all.
@@ -6,7 +6,7 @@ Organizes your music files into folders. That's all.
 Installation
 =========
 
-npm install -g tololoche
+npm install -g rifqilol
 
 Usage
 =========
